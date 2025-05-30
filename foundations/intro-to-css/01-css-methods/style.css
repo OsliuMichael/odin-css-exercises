@@ -1,6 +1,9 @@
 
 
 div {
-    colour: white;
-    background-colour: red;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+    background-color: red;
 }
