@@ -5,7 +5,8 @@
 .right {
     background-color: hsl(72, 100%, 66%);
 }
-.button {
+.left,
+.right {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
