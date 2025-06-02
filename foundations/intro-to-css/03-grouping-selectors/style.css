@@ -2,3 +2,10 @@
     color: rgb(255, 255, 255);
     background: #000000
 }
+.right {
+    background-color: hsl(72, 100%, 66%);
+}
+.button {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
