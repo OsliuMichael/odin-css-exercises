@@ -21,12 +21,14 @@ body {
 }
 
 .button-container {
+  text-align: center;
   background: #e3f4ff;
   padding: 10px;
   margin: 10px 10px 0px 10px;
 }
 
 button {
+  display: block;
   background: white;
   border: 1px solid #eee;
   padding: 10px;
